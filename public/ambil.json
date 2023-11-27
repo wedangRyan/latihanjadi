@@ -1,0 +1,44 @@
+{
+  "page": [
+    {
+      "name": "Home",
+      "path": "/"
+    },
+    {
+      "name": "SALES COMPENSATION",
+      "path": "/sales_compensation.pdf",
+      "targets": "_blank"
+    },
+    {
+      "name": "REGISTER",
+      "path": "/register"
+    },
+    {
+      "name": "SWAP",
+      "path": "/swap"
+    },
+    {
+      "name": "MATRIX TURNOVER",
+      "path": "/matrix"
+    }
+  ],
+  "get": [
+    {
+      "name": "Home",
+      "path": "/"
+    },
+    {
+      "name": "SALES COMPENSATION",
+      "path": "/sales_compensation.pdf",
+      "targets": "_blank"
+    },
+    {
+      "name": "REGISTER",
+      "path": "/register"
+    },
+    {
+      "name": "SWAP",
+      "path": "/swap"
+    }
+  ]
+}
